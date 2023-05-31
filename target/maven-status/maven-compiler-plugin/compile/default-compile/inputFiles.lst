@@ -1,8 +1,9 @@
-/Users/victortrumpel/Desktop/study/Lesson24_Starter.SpringFormsValidation/src/main/java/ru/alishev/springcourse/dao/PersonMapper.java
-/Users/victortrumpel/Desktop/study/Lesson24_Starter.SpringFormsValidation/src/main/java/ru/alishev/springcourse/models/Person.java
-/Users/victortrumpel/Desktop/study/Lesson24_Starter.SpringFormsValidation/src/main/java/ru/alishev/springcourse/dao/PersonDAO.java
-/Users/victortrumpel/Desktop/study/Lesson24_Starter.SpringFormsValidation/src/main/java/ru/alishev/springcourse/config/SpringConfig.java
-/Users/victortrumpel/Desktop/study/Lesson24_Starter.SpringFormsValidation/src/main/java/ru/alishev/springcourse/controllers/PeopleController.java
-/Users/victortrumpel/Desktop/study/Lesson24_Starter.SpringFormsValidation/src/main/java/ru/alishev/springcourse/util/PersonValidator.java
-/Users/victortrumpel/Desktop/study/Lesson24_Starter.SpringFormsValidation/src/main/java/ru/alishev/springcourse/config/MySpringMvcDispatcherSerlvetIntitializer.java
-/Users/victortrumpel/Desktop/study/Lesson24_Starter.SpringFormsValidation/src/main/java/ru/alishev/springcourse/controllers/BatchController.java
+/Users/victortrumpel/Desktop/study/Spring.LibraryCRUD/src/main/java/ru/alishev/springcourse/models/Book.java
+/Users/victortrumpel/Desktop/study/Spring.LibraryCRUD/src/main/java/ru/alishev/springcourse/controllers/BookController.java
+/Users/victortrumpel/Desktop/study/Spring.LibraryCRUD/src/main/java/ru/alishev/springcourse/dao/BookDAO.java
+/Users/victortrumpel/Desktop/study/Spring.LibraryCRUD/src/main/java/ru/alishev/springcourse/models/PersonInfo.java
+/Users/victortrumpel/Desktop/study/Spring.LibraryCRUD/src/main/java/ru/alishev/springcourse/models/Person.java
+/Users/victortrumpel/Desktop/study/Spring.LibraryCRUD/src/main/java/ru/alishev/springcourse/config/SpringConfig.java
+/Users/victortrumpel/Desktop/study/Spring.LibraryCRUD/src/main/java/ru/alishev/springcourse/config/MySpringMvcDispatcherSerlvetIntitializer.java
+/Users/victortrumpel/Desktop/study/Spring.LibraryCRUD/src/main/java/ru/alishev/springcourse/dao/PersonDAO.java
+/Users/victortrumpel/Desktop/study/Spring.LibraryCRUD/src/main/java/ru/alishev/springcourse/controllers/PeopleController.java
